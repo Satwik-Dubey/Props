@@ -1,11 +1,6 @@
-# React + Vite
+Props
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-> props are like parameters to a function
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-![image](https://github.com/user-attachments/assets/18a2df5c-93bb-4664-9be5-0e4ae2a87d0b)
+![image](https://github.com/user-attachments/assets/bf26ab4a-d09a-4823-8fc7-ce4ee2479498)
 
